@@ -20,12 +20,8 @@ BOOK_RATING=$(echo "$RESPONSE" | jq -r '.items[0].volumeInfo.averageRating // ""
 # Output to CSV file in current directory
 CSV_FILE="books_output.csv"
 
-# Write header if file does not exist
-if [[ ! -f "$CSV_FILE" ]]; then
-  echo "Author|Title|Year|Rating" > "$CSV_FILE"
-fi
-
-# Write book info
+# Overwrite CSV file each run
+echo "Author|Title|Year|Rating" > "$CSV_FILE"
 echo "$BOOK_AUTHOR|$BOOK_TITLE|$BOOK_YEAR|$BOOK_RATING" >> "$CSV_FILE"
 
 echo "Saved: $BOOK_AUTHOR|$BOOK_TITLE|$BOOK_YEAR|$BOOK_RATING to $CSV_FILE"
