@@ -53,18 +53,18 @@
 | Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Aaron Ross                             | Predictable Revenue             |
 | Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Alisa Cohn                             | From Start-Up to Grown-Up       |
 | Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Dan Martell                            | Buy Back Your Time              |
-| Scaling Businesses & Systems  | Dave Power                             | The Curve Ahead                 |
-| Scaling Businesses & Systems  | Gino Wickman                           | Traction                        |
-| Scaling Businesses & Systems  | Jim Collins                            | Good to Great                   |
-| Scaling Businesses & Systems  | Mark Roberge                            | The Sales Acceleration Formula  |
-| Scaling Businesses & Systems  | Michael Gerber                         | The E‑Myth Revisited            |
-| Scaling Businesses & Systems  | Michael Masterson                      | Ready, Fire, Aim                |
-| Scaling Businesses & Systems  | Nathan Furr & Paul Ahlstrom            | Nail It Then Scale It           |
-| Scaling Businesses & Systems  | Peter Thiel                            | Zero to One                     |
-| Scaling Businesses & Systems  | Sage Lavine                            | Women Rocking Business          |
-| Scaling Businesses & Systems  | Verne Harnish                          | Mastering the Rockefeller Habits|
-| Scaling Businesses & Systems  | Verne Harnish                          | Scaling Up: How a Few Companies Make It…and Why the Rest Don’t |
-| Resilience & Mental Health    | Kelly McGonigal                        | The Upside of Stress            |
-| Resilience & Mental Health    | Ryan Holiday                           | The Obstacle Is the Way         |
-| Resilience & Mental Health    | Sheryl Sandberg & Adam Grant           | Option B                        |
-| Legacy & Wealth Preservation  | Andrew Howell & David York             | Entrusted                       |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Dave Power                             | The Curve Ahead                 |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Gino Wickman                           | Traction                        |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Jim Collins                            | Good to Great                   |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Mark Roberge                            | The Sales Acceleration Formula  |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Michael Gerber                         | The E‑Myth Revisited            |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Michael Masterson                      | Ready, Fire, Aim                |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Nathan Furr & Paul Ahlstrom            | Nail It Then Scale It           |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Peter Thiel                            | Zero to One                     |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Sage Lavine                            | Women Rocking Business          |
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Verne Harnish                          | Mastering the Rockefeller Habits|
+| Scaling Businesses & Systems  | YYYY  | ★★★★☆ | Verne Harnish                          | Scaling Up: How a Few Companies Make It…and Why the Rest Don’t |
+| Resilience & Mental Health    | YYYY  | ★★★★☆ | Kelly McGonigal                        | The Upside of Stress            |
+| Resilience & Mental Health    | YYYY  | ★★★★☆ | Ryan Holiday                           | The Obstacle Is the Way         |
+| Resilience & Mental Health    | YYYY  | ★★★★☆ | Sheryl Sandberg & Adam Grant           | Option B                        |
+| Legacy & Wealth Preservation  | YYYY  | ★★★★☆ | Andrew Howell & David York             | Entrusted                       |
