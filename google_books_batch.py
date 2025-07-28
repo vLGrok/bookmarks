@@ -39,25 +39,36 @@ def extract_books(md_path):
                     })
     return books
 
-def query_google_books(author, title, api_key):
+
+def query_google_books(author, title, api_key, max_retries=5):
     params = {
         "q": f"inauthor:{author} intitle:{title}",
         "key": api_key
     }
-    try:
-        resp = requests.get(API_URL, params=params, timeout=10)
-        resp.raise_for_status()
-        data = resp.json()
-        if "items" in data and len(data["items"]):
-            info = data["items"][0]["volumeInfo"]
-            year = info.get("publishedDate", "")
-            rating = info.get("averageRating", "")
-            # Use first author if multiple
-            author_out = info.get("authors", [author])[0]
-            title_out = info.get("title", title)
-            return author_out, title_out, year, rating
-    except Exception as e:
-        print(f"Error for {author} - {title}: {e}")
+    backoff = 1
+    for attempt in range(max_retries):
+        try:
+            resp = requests.get(API_URL, params=params, timeout=10)
+            if resp.status_code == 429:
+                print(f"429 Too Many Requests for {author} - {title}. Backing off for {backoff} seconds...")
+                time.sleep(backoff)
+                backoff = min(backoff * 2, 60)
+                continue
+            resp.raise_for_status()
+            data = resp.json()
+            if "items" in data and len(data["items"]):
+                info = data["items"][0]["volumeInfo"]
+                year = info.get("publishedDate", "")
+                rating = info.get("averageRating", "")
+                # Use first author if multiple
+                author_out = info.get("authors", [author])[0]
+                title_out = info.get("title", title)
+                return author_out, title_out, year, rating
+            break
+        except Exception as e:
+            print(f"Error for {author} - {title}: {e}")
+            time.sleep(backoff)
+            backoff = min(backoff * 2, 60)
     return author, title, "", ""
 
 
