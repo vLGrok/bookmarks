@@ -2,51 +2,70 @@
 
 
 ## Combined Reading List: All Categories
-| Title                                                                                  | Author                                 | Category                      |
-|----------------------------------------------------------------------------------------|----------------------------------------|-------------------------------|
-| Influence                                                                              | Robert Cialdini                        | Influence & Persuasion        |
-| Pre‑Suasion                                                                            | Robert Cialdini                        | Influence & Persuasion        |
-| Yes!                                                                                   | Goldstein, Cialdini, Martin            | Influence & Persuasion        |
-| How to Win Friends and Influence People                                                | Dale Carnegie                          | Influence & Persuasion        |
-| The Leadership Challenge                                                               | James M. Kouzes & Barry Z. Posner      | Leadership & Culture          |
-| Reinventing Organizations                                                              | Frederic Laloux                        | Leadership & Culture          |
-| Uncommon Service                                                                       | Frances Frei & Anne Morriss            | Leadership & Culture          |
-| Team of Teams: New Rules of Engagement for a Complex World                             | General Stanley McChrystal             | Leadership & Culture          |
-| The Motive                                                                             | Patrick Lencioni                       | Leadership & Culture          |
-| Wooden on Leadership                                                                   | John Wooden                            | Leadership & Culture          |
-| The Bezos Letters                                                                      | Steve Anderson                         | Leadership & Culture          |
-| Good to Great                                                                          | Jim Collins                            | Scaling Businesses & Systems  |
-| From Start-Up to Grown-Up                                                              | Alisa Cohn                              | Scaling Businesses & Systems  |
-| Predictable Revenue                                                                    | Aaron Ross                             | Scaling Businesses & Systems  |
-| $100M Offers                                                                           | Alex Hormozi                           | Offers, Marketing & Sales     |
-| Expert Secrets                                                                         | Russell Brunson                        | Offers, Marketing & Sales     |
-| One to Many                                                                            | Jason Fladlien                         | Offers, Marketing & Sales     |
-| Mastering the Complex Sale                                                             | Jeff Thull                              | Offers, Marketing & Sales     |
-| Buy Back Your Time                                                                     | Dan Martell                            | Scaling Businesses & Systems  |
-| The Curve Ahead                                                                        | Dave Power                              | Scaling Businesses & Systems  |
-| Mastering the Rockefeller Habits                                                       | Verne Harnish                           | Scaling Businesses & Systems  |
-| Scaling Up: How a Few Companies Make It…and Why the Rest Don’t                         | Verne Harnish                           | Scaling Businesses & Systems  |
-| Nail It Then Scale It                                                                  | Nathan Furr & Paul Ahlstrom             | Scaling Businesses & Systems  |
-| The Sales Acceleration Formula                                                         | Mark Roberge                            | Scaling Businesses & Systems  |
-| Ready, Fire, Aim                                                                       | Michael Masterson                      | Scaling Businesses & Systems  |
-| The E‑Myth Revisited                                                                   | Michael Gerber                         | Scaling Businesses & Systems  |
-| Traction                                                                               | Gino Wickman                           | Scaling Businesses & Systems  |
-| Women Rocking Business                                                                 | Sage Lavine                             | Scaling Businesses & Systems  |
-| Zero to One                                                                            | Peter Thiel                            | Scaling Businesses & Systems  |
-| Creativity, Inc.                                                                       | Ed Catmull & Amy Wallace                | Mindset & Habits              |
-| Embrace Your Weird                                                                     | Felicia Day                             | Mindset & Habits              |
-| Getting Things Done                                                                    | David Allen                            | Mindset & Habits              |
-| Bird by Bird                                                                           | Anne Lamott                             | Mindset & Habits              |
-| The One Thing                                                                          | Gary Keller                            | Mindset & Habits              |
-| Atomic Habits                                                                          | James Clear                            | Mindset & Habits              |
-| The Psychology of Money                                                                | Morgan Housel                          | Mindset & Habits              |
-| 12 Habits of Valuable Employees                                                        | Verne Harnish                           | Mindset & Habits              |
-| The Execution Factor: The One Skill That Drives Success                                | Kim Perell                              | Mindset & Habits              |
-| Jump: Dare to Do What Scares You in Business and Life                                  | Kim Perell                              | Mindset & Habits              |
-| Mistakes That Made Me a Millionaire                                                    | Kim Perell                              | Mindset & Habits              |
-| Rich Dad, Poor Dad                                                                     | Robert Kiyosaki                        | Mindset & Habits              |
-| Secrets of the Millionaire Mind                                                        | T. Harv Eker                           | Mindset & Habits              |
-| Think and Grow Rich                                                                    | Napoleon Hill                          | Mindset & Habits              |
-| Letters to a Young Poet                                                                | Rainer Maria Rilke                      | Mindset & Habits              |
-| The War of Art                                                                         | Steven Pressfield                       | Mindset & Habits              |
-| Entrusted                                                                              | Andrew Howell & David York              | Legacy & Wealth Preservation  |
+| Category                      | Author                                 | Title                           |
+|-------------------------------|----------------------------------------|----------------------------------|
+| Influence & Persuasion        | Robert Cialdini                        | Influence                        |
+| Influence & Persuasion        | Robert Cialdini                        | Pre‑Suasion                      |
+| Influence & Persuasion        | Goldstein, Cialdini, Martin            | Yes!                             |
+| Influence & Persuasion        | Dale Carnegie                          | How to Win Friends and Influence People |
+| Leadership & Culture          | James M. Kouzes & Barry Z. Posner      | The Leadership Challenge          |
+| Leadership & Culture          | Frederic Laloux                        | Reinventing Organizations         |
+| Leadership & Culture          | Frances Frei & Anne Morriss            | Uncommon Service                  |
+| Leadership & Culture          | General Stanley McChrystal             | Team of Teams: New Rules of Engagement for a Complex World |
+| Leadership & Culture          | Patrick Lencioni                       | The Motive                        |
+| Leadership & Culture          | John Wooden                            | Wooden on Leadership              |
+| Leadership & Culture          | Steve Anderson                         | The Bezos Letters                 |
+| Scaling Businesses & Systems  | Jim Collins                            | Good to Great                     |
+| Scaling Businesses & Systems  | Alisa Cohn                             | From Start-Up to Grown-Up         |
+| Scaling Businesses & Systems  | Aaron Ross                             | Predictable Revenue               |
+| Offers, Marketing & Sales     | Alex Hormozi                           | $100M Offers                      |
+| Offers, Marketing & Sales     | Russell Brunson                        | Expert Secrets                    |
+| Offers, Marketing & Sales     | Jason Fladlien                         | One to Many                       |
+| Offers, Marketing & Sales     | Jeff Thull                             | Mastering the Complex Sale        |
+| Scaling Businesses & Systems  | Dan Martell                            | Buy Back Your Time                |
+| Scaling Businesses & Systems  | Dave Power                             | The Curve Ahead                   |
+| Scaling Businesses & Systems  | Verne Harnish                          | Mastering the Rockefeller Habits   |
+| Scaling Businesses & Systems  | Verne Harnish                          | Scaling Up: How a Few Companies Make It…and Why the Rest Don’t |
+| Scaling Businesses & Systems  | Nathan Furr & Paul Ahlstrom            | Nail It Then Scale It             |
+| Scaling Businesses & Systems  | Mark Roberge                           | The Sales Acceleration Formula    |
+| Scaling Businesses & Systems  | Michael Masterson                      | Ready, Fire, Aim                  |
+| Scaling Businesses & Systems  | Michael Gerber                         | The E‑Myth Revisited              |
+| Scaling Businesses & Systems  | Gino Wickman                           | Traction                          |
+| Scaling Businesses & Systems  | Sage Lavine                            | Women Rocking Business            |
+| Scaling Businesses & Systems  | Peter Thiel                            | Zero to One                       |
+| Mindset & Habits              | Ed Catmull & Amy Wallace               | Creativity, Inc.                  |
+| Mindset & Habits              | Felicia Day                            | Embrace Your Weird                |
+| Mindset & Habits              | David Allen                            | Getting Things Done               |
+| Mindset & Habits              | Anne Lamott                            | Bird by Bird                      |
+| Mindset & Habits              | Gary Keller                            | The One Thing                     |
+| Mindset & Habits              | James Clear                            | Atomic Habits                     |
+| Mindset & Habits              | Morgan Housel                          | The Psychology of Money           |
+| Mindset & Habits              | Verne Harnish                          | 12 Habits of Valuable Employees   |
+| Mindset & Habits              | Kim Perell                             | The Execution Factor: The One Skill That Drives Success |
+| Mindset & Habits              | Kim Perell                             | Jump: Dare to Do What Scares You in Business and Life |
+| Mindset & Habits              | Kim Perell                             | Mistakes That Made Me a Millionaire |
+| Mindset & Habits              | Robert Kiyosaki                        | Rich Dad, Poor Dad                |
+| Mindset & Habits              | T. Harv Eker                           | Secrets of the Millionaire Mind    |
+| Mindset & Habits              | Napoleon Hill                          | Think and Grow Rich               |
+| Mindset & Habits              | Rainer Maria Rilke                     | Letters to a Young Poet           |
+| Mindset & Habits              | Steven Pressfield                      | The War of Art                    |
+| Legacy & Wealth Preservation  | Andrew Howell & David York              | Entrusted                         |
+
+| Product Development & Innovation | Eric Ries                             | The Lean Startup                  |
+| Product Development & Innovation | Marty Cagan                           | Inspired: How To Create Products Customers Love |
+| Product Development & Innovation | Jake Knapp                            | Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days |
+| Finance & Fundraising            | Brad Feld & Jason Mendelson           | Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist |
+| Finance & Fundraising            | Jason Calacanis                       | Angel: How to Invest in Technology Startups |
+| Finance & Fundraising            | Alejandro Cremades                    | The Art of Startup Fundraising    |
+| Operations & Execution           | Andrew Grove                          | High Output Management            |
+| Operations & Execution           | John Doerr                            | Measure What Matters              |
+| Operations & Execution           | Ben Horowitz                          | The Hard Thing About Hard Things  |
+| Legal & Compliance               | Constance E. Bagley & Craig E. Dauchy | The Entrepreneur’s Guide to Business Law |
+| Legal & Compliance               | Steve Blank & Bob Dorf                | The Startup Owner’s Manual        |
+| Legal & Compliance               | Guy Kawasaki                          | The Art of the Start 2.0          |
+| Networking & Community           | Keith Ferrazzi                        | Never Eat Alone                   |
+| Networking & Community           | Scott Gerber & Ryan Paugh             | Superconnector                    |
+| Networking & Community           | Adam Grant                            | Give and Take                     |
+| Resilience & Mental Health       | Sheryl Sandberg & Adam Grant          | Option B                          |
+| Resilience & Mental Health       | Kelly McGonigal                       | The Upside of Stress              |
+| Resilience & Mental Health       | Ryan Holiday                          | The Obstacle Is the Way           |
